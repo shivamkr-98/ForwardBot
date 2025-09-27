@@ -2,7 +2,7 @@ from os import environ
 
 API_ID = int(environ.get("API_ID", ""))
 API_HASH = environ.get("API_HASH", "")
-BOT_TOKEN = environ.get("BOT_TOKEN", "")
+BOT_TOKEN = environ.get("BOT_TOKEN", "6880990182:AAFugyQqds07lsuKuMVokdJQUfbMN42n3H4")
 FILE_CAPTION = environ.get("FILE_CAPTION", "<code>{file_name}</code>")
 OWNER = environ.get("OWNER", "")
 PRIVATE_BOT = environ.get("PRIVATE_BOT", False)
